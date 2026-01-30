@@ -246,14 +246,7 @@ with tab1:
         with col4:
             st.metric("Ortalama Toplam Yayın", f"{df_plot['toplam_yayin'].mean():.0f}")
         
-        # HTML Olarak Kaydet
-        buffer = pio.to_html(fig, full_html=False, include_plotlyjs='cdn')
-        st.download_button(
-            label="📥 Grafiği HTML Olarak İndir",
-            data=buffer,
-            file_name="gebip_scholar_grafik.html",
-            mime="text/html",
-        )
+
 
 with tab2:
     st.header("👤 Araştırmacı Profili")
@@ -814,14 +807,7 @@ with tab5:
     else:
         st.dataframe(df_display, use_container_width=True, height=600)
     
-    # CSV İndir
-    csv = df_display.to_csv(index=False, encoding='utf-8-sig')
-    st.download_button(
-        label="📥 Filtrelenmiş Veriyi CSV Olarak İndir",
-        data=csv,
-        file_name="gebip_scholar_filtered.csv",
-        mime="text/csv",
-    )
+
 
 # Tab 6: Hakkında (About)
 with tab6:
