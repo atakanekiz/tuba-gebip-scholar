@@ -1,0 +1,670 @@
+﻿sira_no,unvan,adi_soyadi,yili,alan,calistigi_kurum
+1,Doç. Dr.,Sercan KARAV,2024,Moleküler Biyoloji,Çanakkale Onsekiz Mart Üniversitesi
+2,Doç. Dr.,Ercan KILIÇARSLAN,2024,Matematiksel Fizik,Uşak Üniversitesi
+3,Doç. Dr.,Yeşim MOĞULKOÇ,2024,Fizik / Hesaplamalı Fizik,Ankara Üniversitesi
+4,Dr. Öğr. Üyesi,Nur MUSTAFAOĞLU,2024,Biyomühendislik,Sabancı Üniversitesi
+5,Dr. Öğr. Üyesi,Ece ÖZTÜRK,2024,Biyomühendislik / Doku Mühendisliği,Koç Üniversitesi
+6,Dr. Öğr. Üyesi,Şener SAĞLAM,2024,Analitik Kimya,İstanbul Üniversitesi-Cerrahpaşa
+7,Doç. Dr.,Erhan ZOR,2024,Kimya / Analitik Kimya,Necmettin Erbakan Üniversitesi
+8,Prof. Dr.,Tuğrul ÇETİNKAYA,2024,Elektrokimyasal Enerji Depolama,Sakarya Üniversitesi
+9,Doç. Dr.,Ömer EKMEKCİOĞLU,2024,İnşaat Mühendisliği,İstanbul Teknik Üniversitesi
+10,Doç. Dr.,Bilge COŞKUNER FİLİZ,2024,Malzeme Bilimi Ve Mühendisliği,Yıldız Teknik Üniversitesi
+11,Dr.Öğr. Üyesi,Morteza GHORBANİ,2024,Makine Mühendisliği,Sabancı Üniversitesi
+12,Dr. Öğr. Üyesi,Hüseyin Enis KARAHAN,2024,Kimya-Biyoloji Mühendisliği//Biyomühendislik,İTÜ / Fransa Ulusal Bilimsel Araştırma Merkezi
+13,Prof. Dr.,Ali MARDANİ,2024,Yapı Malzemesi,Uludağ Üniversitesi
+14,Doç. Dr.,Ayça BAL ÖZTÜRK,2024,Biyomühendislik,İstinye Üniversitesi
+15,Doç. Dr.,Furkan Türker SARICAOĞLU,2024,Gıda Bilimi Ve Mühendisliği,Bursa Teknik Üniversitesi
+16,Doç. Dr.,Erkan ER,2024,Eğitim Teknolojileri / Yapay Zeka,ODTÜ
+17,Doç. Dr.,Mustafa ÖZTÜRK,2024,Eğitim Bilimleri,Boğaziçi Üniversitesi
+18,Dr. Öğr. Üyesi,Kenan TEKİN,2024,Felsefe Tarihi,Boğaziçi Üniversitesi
+19,Doç. Dr.,Ayşenur DAL TOKDEMİR,2024,İletişim,Bilkent Üniversitesi
+20,Dr. Öğr. Gör.,Yunus AKKOÇ,2024,Moleküler Biyoloji / Genetik,Koç Üniversitesi
+21,Doç. Dr.,Semih ÇALAMAK,2024,Nanaoteknoloji Ve Nanotıp,Lokman Hekim Üniversitesi
+22,Doç. Dr.,Sevinç KURBANOĞLU,2024,Analitik Kimya,Ankara Üniversitesi
+23,Doç. Dr.,Nazlı Ece ORDUERİ,2024,Histoloji Ve Embriyoloji,Biruni Üniversitesi
+24,Dr. Öğr. Gör.,Buse CEVATEMRE YILDIRIM,2024,Kanser Moleküler Biyolojisi,Koç Üniversitesi
+25,Doç. Dr.,Burak BARUT,2024,Eczacılık / Biyokimya,Karadeniz Teknik Üniversitesi
+1,Doç. Dr.,Ezgi Deniz BATU AKAL,2023,Çocuk Romatolojisi,Hacettepe Üniversitesi
+2,Prof. Dr.,Özge ÇEVİK,2023,Tıbbi Biyokimya,Aydın Adnan Menderes Üniversitesi
+3,Prof. Dr.,Bünyemin ÇOŞUT,2023,Anorganik Kimya,Gebze Teknik Üniversitesi
+4,Dr. Öğr. Üyesi,Talha ERDEM,2023,Elektrik-Elektronik Mühendisliği,Abdullah Gül Üniversitesi
+5,Dr. Öğr. Üyesi,Yavuz Nuri ERTAŞ,2023,Nanoteknoloji,Erciyes Üniversitesi
+6,Doç. Dr.,İlknur ERUÇAR FINDIKÇI,2023,Malzeme Bilimi Ve Teknolojileri,Özyeğin Üniversitesi
+7,Doç. Dr.,Metin GENÇTEN,2023,Malzeme Mühendisliği Ve Bilimi,Yıldız Teknik Üniversitesi
+8,Doç. Dr.,Şeref GÜL,2023,Moleküler Biyoloji,İstanbul Üniversitesi
+9,Doç. Dr.,Cangül KESKİN,2023,Diş Hekimliği/ Endodonti,Ondokuz Mayıs Üniversitesi
+10,Doç. Dr.,Haydar KILIÇ,2023,Organik Kimya,Atatürk Üniversitesi
+11,Prof. Dr.,Mustafa Servet KIRAN,2023,Bilgisayar Mühendisliği,Konya Teknik Üniversitesi
+12,Doç. Dr.,Fatih KOCABAŞ,2023,Tıbbi Biyoloji,Yeditepe Üniversitesi
+13,Doç. Dr.,Seçkin KÖSTEM,2023,Uluslararası İlişkiler,İ.D. Bilkent Üniversitesi
+14,Dr. Öğr. Üyesi,Faiz MUHAFFEL,2023,Metalurji Ve Malzeme Mühendisliği,İstanbul Teknik Üniversitesi
+15,Doç. Dr.,Büşra MÜCELDİLİ,2023,İşletme/Örgütsel Davranış,Yıldız Teknik Üniversitesi
+16,Dr. Öğr. Üyesi,Halil İbrahim OKUR,2023,Fizikokimya-Biyofizik,İ.D. Bilkent Üniversitesi
+17,Doç. Dr.,Nil ÖZBEK,2023,Kimya Mühendisliği,İstanbul Teknik Üniversitesi
+18,Doç. Dr.,Muhammed Zeynel ÖZTÜRK,2023,Coğrafya/Fiziki Coğrafya,Niğde Ömer Halis Demir Üniversitesi
+19,Doç. Dr.,Didem ŞEN KARAMAN,2023,Biyomedikal Mühendisliği,İzmir Katip Çelebi Üniversitesi
+20,Doç. Dr.,Özge ŞENSOY,2023,"Hesaplamalı Biyofizik,Yapısal Biyoloji",İstanbul Medipol Üniversitesi
+21,Doç. Dr.,Cem TEKİN,2023,Elektrik Elektronik Mühendisliği,İ.D. Bilkent Üniversitesi
+22,Doç. Dr.,Emrah TIRAŞ,2023,Fizik,Erciyes Üniversitesi
+23,Doç. Dr.,Fuat TOPUZ,2023,Polimer Kimya,İstanbul Teknik Üniversitesi
+24,Doç. Dr.,Mehmet TURAN,2023,Bilgisayar Mühendisliği,Boğaziçi Üniversitesi
+25,Prof. Dr.,Ekin UĞURLU,2023,Matematik,Çankaya Üniversitesi
+26,Doç. Dr.,Sadiye VELİOĞLU,2023,Nanoteknoloji,Gebze Teknik Üniversitesi
+27,Doç. Dr.,Atay VURAL,2023,Tıp(Nöroloji) Ve Nörobilim,Koç Üniversitesi
+28,Doç. Dr.,İsmail YAŞAYANLAR,2023,Tarih-Yakınçağ Tarihi,Düzce Üniversitesi
+29,Dr. Öğr. Üyesi,Sevcan YEŞİLTAŞ,2023,Ekonomi,Koç Üniversitesi
+30,Doç. Dr.,Onurcan YILMAZ,2023,Psikoloji,Kadir Has Üniversitesi
+31,Prof. Dr.,Ramazan YILMAZ,2023,Bilgisayar Ve Öğretim Teknolojileri Eğitimi,Bartın Üniversitesi
+32,Doç. Dr.,Nur YİĞİTOĞLU APTOULA,2023,Yabancı Dil Eğitimi,Boğaziçi Üniversitesi
+33,Doç. Dr.,Serkan YOLCU,2023,Hukuk/Anayasa Hukuku,İ.D. Bilkent Üniversitesi
+34,Doç. Dr.,Sündüs Erbaş ÇAKMAK,2023,Kimyasal Biyoloji,Necmettin Erbakan Üniversitesi
+1,Prof. Dr.,Bahriye AKAY,2022,Bilgisayar Mühendisliği,Erciyes Üniversitesi
+2,Dr. Öğr. Üyesi,Eda AYDOĞAN GÜNGÖR,2022,Malzeme Bilimi Ve Mühendisliği,Orta Doğu Teknik Üniversitesi
+3,Doç. Dr.,Sabahat Çiğdem BAĞCI,2022,Psikoloji,Sabancı Üniversitesi
+4,Doç. Dr.,Cihan BAYINDIR,2022,İnşaat Mühendisliği/Hidrolik,İstanbul Teknik Üniversitesi
+5,Doç. Dr.,Mustafa BENER,2022,Kimya/Analitik Kimya,İstanbul Üniversitesi
+6,Doç. Dr.,Miray ÇELİKBİLEK ERSUNDU,2022,Malzeme ve Metalürji Mühendisliği,Yıldız Teknik Üniversitesi
+7,Dr.,Arif Engin ÇETİN,2022,Nanofotonik ve Biyotanımlama Sistemler,İzmir Biyotıp ve Genom Merkezi
+8,Dr. Öğr. Üyesi,Gaye DANIŞAN,2022,Bilim Tarihi,İstanbul Üniversitesi
+9,Doç. Dr.,Çağatay DENGİZ,2022,Kimya/Organik Kimya,Orta Doğu Teknik Üniversitesi
+10,Doç.Dr.,Burak DERKUŞ,2022,Kimya/Biyokimya,Ankara Üniversitesi
+11,Dr. Öğr. Üyesi,Hamdi DİBEKLİOĞLU,2022,Bilgisayar Bilimleri ve Mühendisliği,İ. D. Bilkent Üniversitesi
+12,Doç. Dr.,Nilay DURUK MUTLUBAŞ,2022,Matematik,Sabancı Üniversitesi
+13,Dr. Öğr. Üyesi,Hüseyin Atakan EKİZ,2022,Moleküler Biyoloji,İzmir Yüksek Teknoloji Enstitüsü
+14,Doç. Dr.,Utku Kürşat ERCAN,2022,Biyomedikal Mühendisliği,İzmir Kâtip Çelebi Üniversitesi
+15,Doç. Dr.,Şefik Evren ERDENER,2022,Tıp/Sinirbilim,Hacettepe Üniversitesi
+16,Doç. Dr.,Ali ERKEN,2022,Siyasi Tarih,Marmara Üniversitesi
+17,Doç. Dr.,Aykut GRAM,2022,Veteriner Fakültesi/Hist. ve Embriyoloji,Erciyes Üniversitesi
+18,Doç. Dr.,Gamze GÜNEY ESKİLER,2022,Tıbbi Biyoloji,Sakarya Üniversitesi
+19,Doç. Dr.,Alper GÜRBÜZ,2022,Jeoloji Mühendisliği,Niğde Ömer Halisdemir Üniversitesi
+20,Doç. Dr.,Aslı Gökçe KILIÇ,2022,Müzelerde Önleyici Koruma Çalışmaları,İstanbul Üniversitesi
+21,Doç. Dr.,Namık KILIÇ,2022,Sualtı Kültür Mirasının Korunması,İstanbul Üniversitesi
+22,Doç. Dr.,Serdar KOCAMAN,2022,Nanoteknoloji/Fotonik,Orta Doğu Teknik Üniversitesi
+23,Dr. Öğr. Üyesi,Safacan KÖLEMEN,2022,Kimya/Organik Kimya,Koç Üniversitesi
+24,Dr. Öğr. Üyesi,Cem ÖRNEK,2022,Malzeme ve Korozyon Bilimleri,İstanbul Teknik Üniversitesi
+25,Dr. Öğr. Üyesi,Pakize Neslihan TAŞLI,2022,Biyoteknoloji,Yeditepe Üniversitesi
+26,Doç. Dr.,Abdullah TİRGİL,2022,Ekonomi,Ankara Yıldırım Beyazıt Üniversitesi
+27,Dr. Öğr. Üyesi,Sedef TURPER ALIŞIK,2022,Uluslararası İlişkiler,Koç Üniversitesi
+28,Doç. Dr.,Yunus Emre TÜRKMEN,2022,Kimya/Organik Kimya,İ. D. Bilkent Üniversitesi
+29,Doç. Dr.,Uğur UZUNKAYA,2022,Türk Dili ve Edebiyatı/Eski Türk Dili,Erzurum Teknik Üniversitesi
+30,Dr. Öğr. Üyesi,Alper YAĞCI,2022,Siyaset Bilimi ve Uluslararası İlişkiler,Boğaziçi Üniversitesi
+31,Doç. Dr.,Mehmet YAĞMURCUKARDEŞ,2022,Fizik/Yoğun Madde Fiziği,İzmir Yüksek Teknoloji Enstitüsü
+32,Dr. Öğr. Üyesi,Seçil YILDIRIM KARAMAN,2022,İktisat,Marmara Üniversitesi
+33,Doç. Dr.,Hatice YILDIZ DURAK,2022,Bilgisayar ve Öğretim Teknolojileri,Necmettin Erbakan Üniversitesi
+34,Doç. Dr.,Serdar TORT,2022,Eczacılık / Farmasötik Teknoloji,Gazi Üniversitesi
+1,Dr. Öğr. Üyesi,Ahmet ACAR,2021,Biyolojik Bilimler / Kanser Biyolojisi,Orta Doğu Teknik Üniversitesi
+2,Dr. Öğr. Üyesi,Ogün ADEBALİ,2021,Biyoenformatik,Sabancı Üniversitesi
+3,Doç. Dr.,Duygu AĞAOĞULLARI,2021,Malzeme Mühendisliği,İstanbul Teknik Üniversitesi
+4,Doç. Dr.,Dilek ALTUN,2021,Eğitim,Ankara Yıldırım Beyazıt Üniversitesi
+5,Dr. Öğr. Üyesi,Pelin ANGIN,2021,Bilgisayar Mühendisliği / Siber Güvenlik,Orta Doğu Teknik Üniversitesi
+6,Prof. Dr.,Erchan APTOULA,2021,Görüntü İşleme,Gebze Teknik Üniversitesi
+7,Prof. Dr.,Yiğit ATILGAN,2021,Finans,Sabancı Üniversitesi
+8,Dr. Öğr. Üyesi,Hayat AYAR ŞENTÜRK,2021,İşletme/ Üretimyönetimi ve Pazarlama,Yıldız Teknik Üniversitesi
+9,Dr. Öğr. Üyesi,Emre BÜKÜŞOĞLU,2021,Kimya Mühendisliği / Malzeme Bilimi,Orta Doğu Teknik Üniversitesi
+10,Doç. Dr.,Deniz CEYLAN TUNCABOYLU,2021,Kimya /Polimer,Bezmialem Vakıf Üniversitesi
+11,Doç. Dr.,Erdem CÜCE,2021,Makine Mühendisliği,Recep Tayyip Erdoğan Ü.
+12,Doç. Dr.,Enes DERTLİ,2021,Gıda Mühendisliği,Yıldız Teknik Üniversitesi
+13,Prof. Dr.,Hasan DİNÇER,2021,Bankacılık Ve İşletme,İstanbul Medipol Üniversitesi
+14,Doç. Dr.,Ahmet EKEN,2021,Tıbbi Biyoloji / Tıp,Erciyes Üniversitesi
+15,Doç. Dr.,Gizem ERDEM GÜREL,2021,Psikoloji,Koç Üniversitesi
+16,Dr. Öğr. Üyesi,Onur ERGEN,2021,Nanoteknoloji / Yenilenebilir Enerji Üretimi,İstanbul Teknik Üniversitesi
+17,Doç. Dr.,Ali Erçin ERSUNDU,2021,Malzeme Bilimi ve Mühendisliği,Yıldız Teknik Üniversitesi
+18,Doç. Dr.,Efe Can GÜRCAN,2021,Uluslararası İlişkiler,İstinye Üniversitesi
+19,Doç. Dr.,Bilge GÜVENÇ TUNA,2021,Biyofizik,Yeditepe Üniversitesi
+20,Dr. Öğr. Üyesi,Fatih İNCİ,2021,Biyoedikal Mühendisliği,İ. D. Bilkent Üniversitesi
+21,Dr. Öğr. Üyesi,Gözde KORKMAZ,2021,Genetik / Moleküler Biyoloji,Koç Üniversitesi
+22,Doç. Dr.,Tufan KUMBASAR,2021,Kontrol ve Otomasyon Mühendisliği,İstanbul Teknik Üniversitesi
+23,Dr. Öğr. Üyesi,Emir Salih MAĞDEN,2021,Elektrik / Elektronik Mühendisliği,Koç Üniversitesi
+24,Doç. Dr.,Mohammedreza NOFAR,2021,Metalurji Ve Malzeme Mühendisliği,İstanbul Teknik Üniversitesi
+25,Prof. Dr.,Cemal Georg ORHAN,2021,Veteriner Fakültesi,Fırat Üniversitesi
+26,Doç. Dr.,Mehmet ÖZKAN,2021,Fizik,İstanbul Teknik Üniversitesi
+27,Doç. Dr.,Eren ŞAHİNER,2021,Jeokronoloji / Fizik,Ankara Üniversitesi
+28,Dr. Öğr. Üyesi,Erkan ŞENSES,2021,Polimer Bilimi,Koç Üniversitesi
+29,Doç. Dr.,Murat ŞENTÜRK,2021,Sosyoloji,İstanbul Üniversitesi
+30,Doç. Dr.,Akın TAŞÇIKARAOĞLU,2021,Elektrik Mühendisliği / Enerji,Muğla Sıtkı Koçman Üniversitesi
+31,Dr. Öğr. Üyesi,Muhammet FATİH TOY,2021,Biyomedikal Optik / Biyofotonik,İstanbul Medipol Üniversitesi
+32,Dr. Öğr. Üyesi,Lütfi Taner TUNÇ,2021,İmalat Teknolojileri,Sabancı Üniversitesi
+33,Doç. Dr.,Meltem YANILMAZ,2021,Tekstil Mühendisliği,İstanbul Teknik Üniversitesi
+34,Dr. Öğr. Üyesi,Murat Kaya YAPICI,2021,Elektronik Mühendisliği,Sabancı Üniversitesi
+35,Doç. Dr.,Emre YÜCE,2021,Fizik,Orta Doğu Teknik Üniversitesi
+36,Prof. Dr.,Yunus ZORLU,2021,Kimya,Gebze Teknik Üniversitesi
+37,Prof. Dr.,İpek SÜNTAR,2021,Eczacılık / Farmakognozi,Gazi Üniversitesi
+1,Doç. Dr.,Mustafa Oğuz AFACAN,2020,İktisat,Sabancı Üniversitesi
+2,Doç. Dr.,Serdar AKBAYRAK,2020,Kimya / Anorganik Kimya,Sinop Üniversitesi
+3,Doç. Dr.,Yaşar AKDOĞAN,2020,Kimya / Malzeme Bilimi Ve Müh.,İzmir Yüksek Teknoloji Enstitüsü
+4,Doç. Dr.,Abdullah AKSU,2020,Deniz ve Çevre Bilimleri,İstanbul Üniversitesi
+5,Doç. Dr.,Kamil Boratay ALICI,2020,Uzay Araştırmaları / Fizik,TÜBİTAK Uzay Teknolojileri Araştırma E.
+6,Prof. Dr.,Ahmet Can ALTUNIŞIK,2020,İnşaat Müh./Deprem Müh.,Karadeniz Teknik Üniversitesi
+7,Prof.Dr.,Necip ATAR,2020,Kimya Mühendisliği,Pamukkale Üniversitesi
+8,Dr.,Muhammet Zahit ATÇIL,2020,Tarih,İstanbul Medeniyet Üniversitesi
+9,Dr.,Hasan ÇOLAK,2020,Tarih,TOBB Ekonomi ve Teknoloji Üniv.
+10,Doç. Dr.,Ayşegül DOĞAN,2020,Genetik ve Biyomühendislik,Yeditepe Üniversitesi
+11,Prof. Dr.,Ozan ERDİNÇ,2020,Elektrik Mühendisliği,Yıldız Teknik Üniversitesi
+12,Dr.,Eliza GHEORGHE,2020,Uluslararası İlişkiler,Bilkent Üniversitesi
+13,Uzm. Dr.,Güneş GÜNER,2020,Tıbbi Patoloji,Hacettepe Üniversitesi
+14,Doç. Dr.,Hulusi KAFALIGÖNÜL,2020,Psikoloji / Bilişsel Nörobilim,Bilkent Üniversitesi
+15,Doç. Dr.,Aysel KANTÜRK FİGEN,2020,Hidrojen Enerjisi,Yıldız Teknik Üniversitesi
+16,Prof. Dr.,Yusuf KAYNAK,2020,Makine Mühendisliği,Marmara Üniversitesi
+17,Dr.,Ghaith MAKEY,2020,Fizik / Genel Fizik,Bilkent Üniversitesi
+18,Dr.,Mert MORAL,2020,Siyaset Bilimi,Sabancı Üniversitesi
+19,Dr.,Betül ÖZBAY,2020,Eski Türk Dili,İstanbul Medeniyet Ünüversitesi
+20,Dr.,Korhan ÖZKAN,2020,Topluluk Ekolojisi,Orta Doğu Teknik Üniversitesi
+21,Doç. Dr.,Zerrin SEZGİN BAYINDIR,2020,Farmasotik Teknoloji,Ankara Üniversitesi
+22,Doç. Dr.,Fatma Sezer ŞENOL DENİZ,2020,Farmakognozi,Gazi Üniversitesi
+23,Doç. Dr.,Ahmet ŞENSOY,2020,Finans,Bilkent Üniversitesi
+24,Dr.,Savaş TAŞOĞLU,2020,Makine Mühendisliği,Koç Üniversitesi
+25,Doç.Dr.,Hüseyin Cumhur TEKİN,2020,Biyomühendislik,İzmir Yüksek Teknoloji Enstitüsü
+26,Dr.,İhsan Efe TOKDEMİR,2020,Uluslararası İlişkiler,Bilkent Üniversitesi
+27,Doç. Dr.,Rifat Onur UMUCALILAR,2020,Fizik / Katıhal Fiziği,Mimar Sinan Güzel Sanatlar Üniv.
+28,Prof. Dr.,Mehmet Gökhan HALICI,2020,Biyoloji / Botanik,Erciyes Üniversitesi
+29,Prof. Dr.,Didem ÖZÇİMEN,2020,Biyomühendislik,Yıldız Teknik Üniversitesi
+30,Doç. Dr.,Burcu ÖZSOY,2020,"İklim Değişikliği, Deniz Kirliliği",İTÜ / TÜBİTAK - MAM KARE
+31,Prof. Dr.,Cengiz YILDIRIM,2020,Yer Bilimleri,İstanbul Teknik Üniversitesi
+1,Dr. Öğr. Üyesi,Ahu ARSLAN YILDIZ,2019,Biyomühendislik,İzmir Yüksek Teknoloji Ensti.
+2,Dr. Öğr. Üyesi,Umut AYDEMİR,2019,Kimya,Koç Üniversitesi
+3,Doç. Dr.,Mehmet Fatih AYSAN,2019,Sosyoloji,Marmara Üniv.
+4,Prof. Dr.,Ali BALCI,2019,Uluslararası İlişkiler,Sakarya Üniv.
+5,Doç. Dr.,Turgay BAYRAKTAR,2019,Matematik,Sabancı Üniversitesi
+6,Doç.Dr.,Zeki CANDAN,2019,Orman Endüstri Mühendisliği,İstanbul Üniversitesi - Cerrahpaşa
+7,Doç. Dr.,Hülya CEBECİ,2019,Uzay Bilimleri,İstanbul Teknik Üniversitesi
+8,Prof. Dr.,Can Özgür ÇOLPAN,2019,Makine Mühendisliği,Dokuz Eylül Üniversitesi
+9,Prof. Dr.,Seda DURAL ÇETİNKAYA,2019,Psikoloji,İzmir Ekonomi Üniv.
+10,Doç. Dr.,Fatih DURGUN,2019,Tarih,İstanbul Medeniyet Üniversitesi
+11,Doç. Dr.,Batur ERCAN,2019,Malzeme Bilimi,ODTÜ
+12,Doç. Dr.,Ersin ERDOĞAN,2019,Hukuk,Yıldırım Beyazıt Üniv.
+13,Doç. Dr.,Nazife ERKURŞUN ÖZCAN,2019,Matematik,Hacettepe Üniversitesi
+14,Doç. Dr,Ferdane Nükhet HARMANCIOĞLU GÜR,2019,Pazarlama,Koç Üniversitesi
+15,Prof. Dr.,Güneş KARABULUT KURT,2019,Haberleşme Bilgi Teorisi,İstanbul Teknik Üniversitesi
+16,Prof. Dr.,İhsan KAYA,2019,Endüstri Mühendisliği,Yıldız Teknik Üniversitesi
+17,Doç. Dr.,Nurettin MENGEŞ,2019,Kimya,Van Yüzüncü Yıl Üniversitesi
+18,Dr. Öğr. Üyesi,Mehmet Cengiz ONBAŞLI,2019,Elektrik Elektronik Mühendisliği,Koç Üniversitesi
+19,Doç. Dr,Arzucan ÖZGÜR TÜRKMEN,2019,Bilgisayar Mühendisliği,Boğaziçi Üniv.
+20,Doç. Dr.,Merva SOLUK TEKKEŞİN,2019,Oral Patoloji,İstanbul Üniversitesi
+21,Dr. Öğr. Üyesi,Onur TOKEL,2019,Fizik,Bilkent Üniversitesi
+22,Doç. Dr.,Hacer TOKYÜREK,2019,Eski Türk Dili,Erciyes Üniv.
+23,Prof. Dr.,Sibel Aylin UĞUR İŞERİ,2019,Moleküler Biyoloji Ve Genetik,İstanbul Üniversitesi
+24,Dr. Öğr. Üyesi,Halit UYANIK,2019,Hukuk,İstanbul Üniv
+25,Dr. Öğr. Üyesi,Burak ÜLGÜT,2019,Kimya,Bilkent Üniversitesi
+26,Doç. Dr.,Hilal YAZICI MALKOÇOĞLU,2019,Biyoteknoloji,TÜBİTAK MAM
+27,Prof. Dr.,Ozan YILMAZ,2019,Türk Dili Ve Edebiyat,Sakarya Üniv.
+28,Prof. Dr.,Mehmet LÜTFİ YOLA,2019,Biyomedikal Mühendisliği,Hasan Kalyoncu Üniversitesi
+1,Doç. Dr.,Canan ACAR,2018,Enerji Sistemleri Mühendisliği,Bahçeşehir Üniversitesi
+2,Doç. Dr.,Yasemin AFACAN,2018,Mimarlık,Bilkent Üniversitesi
+3,Doç. Dr.,Özgür AKARSU,2018,Fizik,İstanbul Teknik Üniversitesi
+4,Prof. Dr.,Nilüfer Zümrüt AYDINOĞLU,2018,İşletme-Pazarlama,Koç Üniversitesi
+5,Prof. Dr.,Ahmet ÇİÇEK,2018,Nanobilim ve Nanoteknoloji,Burdur Mehmet Akif Ersoy Ü.
+6,Doç. Dr.,Rezan DEMİR ÇAKAN,2018,Kimya Mühendisliği,Gebze Teknik Üniversitesi
+7,Doç. Dr.,Mehmet Erkut ERDEM,2018,Bilgisayar Mühendisliği,Hacettepe Üniversitesi
+8,Prof. Dr.,Hilal ERKUŞ,2018,Şehir ve Bölge Planlama,Akdeniz Üniversitesi
+9,Prof. Dr.,Duygun EROL BARKANA,2018,Elektrik-Elektronik Müh.,Yeditepe Üniversitesi
+10,Prof. Dr.,E. Yalçın ERSOY,2018,Jeoloji Mühendisliği,Dokuz Eylül Üniversitesi
+11,Doç. Dr.,Güven GONCA,2018,Gemi İnş. ve Gemi Mak. Müh.,Yıldız Teknik Üniversitesi
+12,Doç. Dr.,Tilbe GÖKSUN YÖRÜK,2018,Psikoloji,Koç Üniversitesi
+13,Doç. Dr.,Emrullah Görkem GÜNBAŞ,2018,Kimya,Orta Doğu Teknik Üniversitesi
+14,Doç. Dr.,Emrah Safa GÜRKAN,2018,Tarih,İstanbul 29 Mayıs Üniversitesi
+15,Doç. Dr.,Gazi HURİ,2018,Ortopedi ve Travmatoloji,Hacettepe Üniversitesi
+16,Doç. Dr.,Mine İNCE OCAKOĞLU,2018,Enerji Sistemleri,Tarsus Üniversitesi
+17,Doç. Dr.,Seymur JAHANGİROV,2018,Fizik,Bilkent Üniversitesi UNAM
+18,Prof. Dr.,Mehmet KAHRAMAN,2018,Kimya,Gaziantep Üniversitesi
+19,Doç. Dr.,Göktuğ KARPAT,2018,Fizik,İzmir Ekonomi Üniversitesi
+20,Doç. Dr.,Görkem KISMALI,2018,Veterinerlik F./ Biyokimya,Ankara Üniversitesi
+21,Doç. Dr.,İsmail ÖÇSOY,2018,Eczacılık F./ Analitik Kimya,Erciyes Üniversitesi
+22,Doç. Dr.,İbrahim T. ÖZDÜR,2018,Elektrik-Elektronik Müh.,TOBB Ekonomi ve Teknoloji Üniversitesi
+23,Doç. Dr.,Duygu SAĞ,2018,İmmünoloji,Dokuz Eylül Üniversitesi
+24,Prof. Dr.,Ela TARAKCI,2018,Fizyoterapi ve Rehabilitasyon,İstanbul Üniversitesi-Cerrahpaşa
+25,Doç. Dr.,İlker TEMİZER,2018,Makine Mühendisliği,Bilkent Üniversitesi
+26,Doç. Dr.,Serhat TOZBURUN,2018,Moleküler Biyoteknoloji,Dokuz Eylül Üniversitesi
+27,Doç. Dr.,Nurcan TUNÇBAĞ,2018,Kanser Sistem Biyolojisi,Koç Üniversitesi
+28,Doç. Dr.,Burhan ULUYOL,2018,İslâmî Ekonomi ve Finans,İstanbul Sabahattin Zaim Ü.
+29,Doç. Dr.,Hamid Akın ÜNVER,2018,Uluslararası İlişkiler,Kadir Has Üniversitesi
+30,Prof. Dr.,Kaan YETİLMEZSOY,2018,Çevre Teknolojisi,Yıldız Teknik Üniversitesi
+31,Doç. Dr.,Canan Aslı YILDIRIM,2018,Göz Hastalıkları,Dokuz Eylül Üniversitesi
+32,Doç. Dr.,Mustafa Tuğrul YILMAZ,2018,İnşaat Mühendisliği,Orta Doğu Teknik Üniversitesi
+33,Dr. Öğr. Üyesi,Açelya YILMAZER AKTUNA,2018,Biyomedikal Mühendisliği,Ankara Üniversitesi
+34,Doç. Dr.,Seda YOLSAL ÇEVİKBİLEN,2018,Jeofizik,İstanbul Teknik Üniversitesi
+35,Doç. Dr.,Mustafa YÜCEL,2018,Deniz Bilimleri,Orta Doğu Teknik Üniversitesi
+36,Doç. Dr.,Saadet YÜKSEL,2018,Hukuk,İstanbul Üniversitesi
+37,Doç. Dr.,Yasemin YÜKSEL DURMAZ,2018,Biyomedikal Mühendisliği,İstanbul Medipol Üniversitesi
+1,Doç. Dr.,Ceyda AÇILAN AYHAN,2017,Tıbbi Genetik,Koç Üniversitesi
+2,Doç. Dr.,Bülent AKGÜN,2017,Kimya,Boğaziçi Üniversitesi
+3,Yrd. Doç. Dr.,Hüseyin Can AKSOY,2017,Hukuk,Bilkent Üniversitesi
+4,Doç. Dr.,Serkan ATEŞ,2017,Fizik,İzmir Yüksek Teknoloji Enstitüsü
+5,Doç. Dr.,Murat BARIŞIK,2017,Makine Müh,İzmir Yüksek Teknoloji Enstitüsü
+6,Doç. Dr.,Ertuğrul BAŞAR,2017,Elektronik ve Haberleşme,İstanbul Teknik Üniversitesi
+7,Dr. Öğr. Üyesi,Tunçer BAYKAŞ,2017,Elektrik Elektronik/Bilgisayar Müh,İstanbul Medipol Üniversitesi
+8,Prof. Dr.,Ayşe BAYRAKÇEKEN YURTCAN,2017,Kimya Mühendisliği,Atatürk Üniversitesi
+9,Dr. Öğr. Üyesi,Bilge BAYTEKİN,2017,Kimya,Bilkent Üniversitesi
+10,Doç. Dr.,Barbaros ÇETİN,2017,Mikroakışkanlar Mekaniği,Bilkent Üniversitesi
+11,Dr. Öğr. Üyesi,Ercüment ÇİÇEK,2017,Bilgisayar Müh,Bilkent Üniversitesi
+12,Dr. Öğr. Üyesi,Onur ÇİZMECİOĞLU,2017,Moleküler Biyoloji ve Genetik,Bilkent Üniversitesi
+13,Prof. Dr.,Nilüfer DİDİŞ KÖRHASAN,2017,Fizik Eğitimi,Bülent Ecevit Üniversitesi
+14,Dr. Öğr. Üyesi,M. Kasım DİRİL,2017,Biyotıp ve Genom,Dokuz Eylül Üniversitesi
+15,Doç. Dr.,Oğuz Hakan GÖĞÜŞ,2017,Yer Bilimleri,İstanbul Teknik Üniversitesi
+16,Dr. Öğr. Üyesi,Mehmet Selim HANAY,2017,Fizik,Bilkent Üniversitesi
+17,Prof. Dr.,Tuba Işınsu İSEN DURMUŞ,2017,Türk Dili Edebiyatı,TOBB Ekonomi ve Teknoloji Üniversitesi
+18,Doç. Dr.,Muhammet Übeydullah KAHVECİ,2017,Kimya/Metalürji,İstanbul Teknik Üniversitesi
+19,Prof. Dr.,Engin KARADAĞ,2017,Yönetim Bilimi,Akdeniz Üniversitesi
+20,Dr. Öğr. Üyesi,Ferdi KARADAŞ,2017,Kimya,Bilkent Üniversitesi
+21,Dr. Öğr. Üyesi,Ayşe KOCA ÇAYDAŞI,2017,Moleküler Biyoloji ve Genetik,Koç Üniversitesi
+22,Prof. Dr.,Sermet KOYUNCU,2017,Kimya,Çanakkale 18 Mart Üniversitesi
+23,Doç. Dr.,Can KÜÇÜK,2017,Biyotıp ve Genom,Dokuz Eylül Üniversitesi
+24,Doç. Dr.,Alptekin KÜPÇÜ,2017,Bilgisayar Mühendisliği,Koç Üniversitesi
+25,Doç. Dr.,Gülistan MEŞE ÖZÇİVİCİ,2017,Moleküler Biyoloji ve Genetik,İzmir Yüksek Teknoloji Enstitüsü
+26,Doç. Dr.,Evren MUTLUGÜN,2017,Elektrik Elektronik Mühendisliği,Abdullah Gül Üniversitesi
+27,Dr. Öğr. Üyesi,Yavuz OKTAY,2017,Biyoloji,Dokuz Eylül Üniversitesi
+28,Prof. Dr.,Engin ÖZÇİVİCİ,2017,Biyomühendislik,İzmir Yüksek Teknoloji Enstitüsü
+29,Doç. Dr.,Saffet ÖZTÜRK,2017,Histoloji ve Embroiyoloji,Akdeniz Üniversitesi
+30,Prof. Dr.,Elif SERTEL,2017,Geomatik Mühendisliği,İstanbul Teknik Üniversitesi
+31,Prof. Dr.,Hasan ŞAHİN,2017,Fotonik,İzmir Yüksek Teknoloji Enstitüsü
+32,Doç. Dr.,Şerif ŞENTÜRK,2017,Biyotıp ve Genom,Dokuz Eylül Üniversitesi
+33,Prof. Dr.,Mehmet Atilla TAŞDELEN,2017,Polimer Malzeme Mühendisliği,Yalova Üniversitesi
+34,Doç. Dr.,Mehmet Emre TAŞGIN,2017,Fizik Mühendisliği,Hacettepe Üniversitesi
+35,Doç. Dr.,Hacer TOPAKTAŞ ÜSTÜNER,2017,Tarih,İstanbul Üniversitesi
+36,Prof. Dr.,Lokman UZUN,2017,Biyokimya,Hacettepe Üniversitesi
+37,Dr. Öğr. Üyesi,Selçuk YERCİ,2017,Elektrik Elektronik Mühendisliği,Orta Doğu Teknik Üniversitesi
+38,Dr. Öğr. Üyesi,Yıldıray YILDIZ,2017,Makine Mühendisliği,Bilkent Üniversitesi
+39,Prof. Dr.,Çetin YILMAZ,2017,Makine Mühendisliği,Boğaziçi Üniversitesi
+1,Doç. Dr.,Şener AKTÜRK,2016,Uluslararası İlişkiler,Koç Üniversitesi
+2,Prof. Dr.,Hakan ALTAN,2016,Fizik,Orta Doğu Teknik Üniversitesi
+3,Doç. Dr.,İsmail Sengör ALTINGÖVDE,2016,Bilgisayar Üniversitesi,ODTÜ
+4,Prof. Dr.,Tınaz Ekim AŞICI,2016,Endüstri Mühendisliği,Boğaziçi Üniversitesi
+5,Prof. Dr.,Fatih BÜYÜKSERİN,2016,Biyomedikal,TOBB ETÜ
+6,Doç. Dr.,Sinem ÇELİK ONARAN,2016,Matematik,Hacettepe Üniversitesi
+7,Doç. Dr.,Cory David DUNN,2016,Moleküler Biyoloji ve Genetik,University of Helsinki (Koç Üniversitesi)
+8,Doç. Dr.,Mustafa EMRULLAHOĞLU,2016,Kimya,İzmir Yüksek Teknoloji Enstitüsü
+9,Doç. Dr.,Seda AKSOY ESİNOĞLU,2016,Fizik Mühendisliği,İstanbul Teknik Üniversitesi
+10,Doç. Dr.,İlke ÖZTEKİN GILLAM,2016,Psikoloji,Florida International Univ.(Koç Üniv.)
+11,Dr. Öğr. Üyesi,Serkan İsmail GÖKTUNA,2016,Moleküler Biyoloji ve Genetik,Bilkent Üniversitesi
+12,Doç. Dr.,Mehmet GÖNEN,2016,Endüstri Mühendisliği,Koç Üniversitesi
+13,Doç.Dr.,Tolga GÖRÜM,2016,Fiziki Coğrafya Jeomorfoloji,İstanbul Üniversitesi
+14,Dr. Öğr. Üyesi,Sinan GÜVEN,2016,Tıbbi biyoloji ve Genetik,Dokuz Eylül Üniversitesi
+15,Doç. Dr.,Gül GÜNAYDIN,2016,Psikoloji,Sabancı Üniversitesi
+16,Dr. Öğr. Üyesi,Mert GÜR,2016,Makine Mühendisliği,İstanbul Teknik Üniversitesi
+17,Doç. Dr.,Pınar YILGÖR HURİ,2016,Biyomedikal Mühendisliği,Ankara Üniversitesi
+18,Prof. Dr.,Selim KARAHASANOĞLU,2016,Tarih,İstanbul Medeniyet Üniversitesi
+19,Doç. Dr.,Elif Nur FIRAT KARALAR,2016,Moleküler Biyoloji ve Genetik,Koç Üniversitesi
+20,Dr. Öğr. Üyesi,Sarp KAYA,2016,Kimya,Koç Üniversitesi
+21,Dr. Öğr. Üyesi,Bilal Ersen KERMAN,2016,Histoloji ve Embriyoloji,İstanbul Medipol Üniversitesi
+22,Dr. Öğr.Üyesi,Özgür KOLÇAK,2016,Tarih,İstanbul Üniversitesi
+23,Doç. Dr.,Nathan Allan LACK,2016,Farmakoloji,Koç Üniversitesi
+24,Prof. Dr.,Sefer Bora LİŞESİVDİN,2016,Fizik,Gazi Üniversitesi
+25,Prof. Dr.,Devrim PESEN OKVUR,2016,Moleküler Biyoloji ve Genetik,İzmir Yüksek Teknoloji Enstitüsü
+26,Doç. Dr.,Hatice Güneş ÖZHAN,2016,Biyotıp ve Genom,Dokuz Eylül Üniversitesi
+27,Doç. Dr.,Mustafa Serdar ÖNSES,2016,Malzeme Bilimi Mühendisliği,Erciyes Üniversitesi
+28,Prof. Dr.,İmren HATAY PATIR,2016,Kimya,Selçuk Üniversitesi
+29,Prof. Dr.,Mustafa Kemal SEZGİNTÜRK,2016,Kimya,Çanakkale 18 Mart Üniversitesi
+30,Doç. Dr.,Alper UZUN,2016,Kimya ve Biyoloji Mühendisliği,Koç Üniversitesi
+31,Prof. Dr.,Sadık YAZAR,2016,Türk Dili ve Edebiyatı,İstanbul Medeniyet Üniversitesi
+1,Doç. Dr.,Belgin Şan AKÇA,2015,Uluslararası İlişkiler,Koç Üniversitesi
+2,Doç. Dr.,Selim AKSOY,2015,Bilgisayar Mühendisliği,Bilkent Üniversitesi
+3,Prof. Dr.,Fatih ALGI,2015,Biyoteknoloji ve Mol. Biyoloji,Aksaray Üniversitesi
+4,Doç. Dr.,Gizem ARIKAN,2015,Uluslararası İlişkiler,Özyeğin Üniversitesi
+5,Doç. Dr.,Abdurrahman ATÇIL,2015,Tarih,Sabancı Üniversitesi
+6,Prof. Dr.,Fuat BALCI,2015,Psikoloji,Koç Üniversitesi
+7,Prof. Dr.,Uğur BOZKAYA,2015,Teorik Kimya,Hacettepe Üniversitesi
+8,Doç. Dr.,Tunahan ÇAKIR,2015,Biyomühendislik,Gebze Teknik Üniversitesi
+9,Dr.,Çağlar ÇEKİÇ,2015,Moleküler Biyoloji ve Genetik,Novartis (Bilkent Üniv.)
+10,Dr. Öğr. Üyesi,Muhammed Talha ÇİÇEK,2015,Tarih,İstanbul Medeniyet Üniversitesi
+11,Prof. Dr.,Sinem ÇÖLERİ,2015,Elektrik-Elektronik Mühendisliği,Koç Üniversitesi
+12,Doç. Dr.,Tolga ÇUKUR,2015,Elektrik-Elektronik Mühendisliği,Bilkent Üniversitesi
+13,Doç. Dr.,Yavuz DEDE,2015,Kimya Bölümü,Gazi Üniversitesi
+14,Doç. Dr.,Fabienne DUMOULİN,2015,Kimya Bölümü,Acıbadem Mehmet Ali Aydınlar Üniv.
+15,Doç. Dr.,Engin DURGUN,2015,Malzeme Bil. ve Nanoteknoloji,Bilkent Üniversitesi UNAM
+16,Dr. Öğr. Üyesi,Özgür ERGÜL,2015,Elektrik-Elektronik Mühendisliği,Gazi Üniversitesi
+17,Doç. Dr.,Şükran Gülin EVİNÇ,2015,Psikoloji / Tıp Fak.,Hacettepe Üniversitesi
+18,Doç. Dr.,Çiğdem GÜNDÜZ DEMİR,2015,Bilgisayar Mühendisliği,Koç Üniversitesi
+19,Prof. Dr.,Bahar GÜNTEKİN,2015,Biyofizik,İstanbul Medipol Üniversitesi
+20,Prof. Dr.,Mehmet GÜRDAL,2015,Matematik,Süleyman Demirel Üniversitesi
+21,Prof. Dr.,Emre Onur KAHYA,2015,Fizik Müh.,İstanbul Teknik Üniversitesi
+22,Dr.,Mustafa KÖKSAL,2015,Moleküler Biyoloji ve Genetik,İzmir Yüksek Teknoloji Enstitüsü
+23,Doç. Dr.,Filiz KURALAY,2015,Kimya,Hacettepe Üniversitesi
+24,Prof. Dr.,Şaban NAZLIOĞLU,2015,Ekonometri,Pamukkale Üniversitesi
+25,Doç. Dr.,Sedat NİZAMOĞLU,2015,Elektrik-Elektronik Mühendisliği,Koç Üniversitesi
+26,Prof. Dr.,Dilek ODACI DEMİRKOL,2015,Biyokimya,Ege Üniversitesi
+27,Doç. Dr.,Tevfik Tamer ÖNDER,2015,Kök Hücre Biyolojisi,Koç Üniversitesi
+28,Doç. Dr.,Şükrü Sadık ÖNER,2015,Farmakoloji,İstanbul Medeniyet Üniversitesi
+29,Prof. Dr.,Nuri ÖZTÜRK,2015,Moleküler Biyoloji ve Genetik,Gebze Teknik Üniversitesi
+30,Doç. Dr.,Emine Ülkü SARITAŞ ÇUKUR,2015,Elektrik-Elektronik Mühendisliği,Bilkent Üniversitesi
+31,Doç. Dr.,Mehmet SOMEL,2015,Biyoloji,ODTÜ
+32,Doç. Dr.,Didem OKUTMAN TAŞ,2015,Çevre Mühendisliği / Çevre Teknolojileri,İstanbul Teknik Üniversitesi
+33,Prof. Dr.,Hakan USTA,2015,Malzeme Bil. ve Nanoteknoloji,Abdullah Gül Üniversitesi
+34,Doç. Dr.,Ahmet UYSAL,2015,Sosyal Psikoloji,Riot Games (ODTÜ )
+35,Doç. Dr.,Mehmet ÜNLÜ,2015,Elektrik-Elektronik Mühendisliği,TOBB Ekonomi ve Teknoloji Üniversitesi
+36,Prof. Dr.,Yasin ÜST,2015,Gemi İnşaatı ve Denizcilik,Yıldız Teknik Üniversitesi
+37,Prof. Dr.,Ali Rıza YILDIZ,2015,Makine Mühendisliği,Bursa Uludağ Üniversitesi
+38,Doç. Dr.,Recep ZAN,2015,Fizik,Niğde Ömer Halisdemir Üniversitesi
+1,Prof.Dr.,Özgür ANIL,2014,İnşaat Mühendisliği / Yapı,Gazi Üniversitesi
+2,Prof. Dr .,R. Burcu ÇAKIRLI MUTLU,2014,Nükleer Fizik,İstanbul Üniversitesi
+3,Prof.Dr.,Çiğdem Kentmen ÇİN,2014,Siyaset Bilimi,İzmir Ekonomi Üniversitesi
+4,Prof.Dr.,Cengiz ERİŞEN,2014,Siyaset Bilimi,Yeditepe Üniversitesi
+5,Doç.Dr.,Ali Cafer GÜRBÜZ,2014,Elektrik/Elektronik Mühendisliği,TOBB ETÜ
+6,Prof.Dr.,Eren İNCİ,2014,Ekonomi,Sabancı Üniversitesi
+7,Doç.Dr.,Özgecan KOÇAK,2014,Yönetim ve Organizasyon,Emory University (Sabancı Üniversitesi)
+8,Doç.Dr.,Önder METİN,2014,Kimya,Koç Üniversitesi
+9,Dr.,Ali Kemal OKYAY,2014,Elektrik/Elektronik Mühendisliği,Bilkent Üniversitesi
+10,Doç. Dr.,Ortaç ONMUŞ,2014,Biyoloji / Zooloji,Ege Üniversitesi
+11,Dr. Öğr. Üyesi,Bülend ORTAÇ,2014,Malzeme Bilim ve Nanoteknoloji,Bilkent Üniversitesi UNAM
+12,Prof.Dr.,Cem SEVİK,2014,Fizik,Eskişehir Teknik Üniversitesi
+13,Dr. Öğr. Üyesi,Özgür ŞAHİN,2014,Kanser Sistem Biyolojisi,Bilkent Üniversitesi
+14,Dr. Öğr. Üyesi,Urartu Özgür Şafak ŞEKER,2014,Biyomühendislik,Bilkent Üniversitesi UNAM
+15,Prof. Dr.,Giovanni VOLPE,2014,Fizik,University of Gottenburg (Bilkent Üniv.)
+1,Prof. Dr.,Akın AKDAĞ,2013,Organik Kimya,ODTÜ
+2,Prof. Dr.,Ebru Menşur ALKOY,2013,Mühendislik ve Doğa Bilimleri,Gebze Teknik Üniversitesi
+3,Doç. Dr.,Deniz ATASOY,2013,Fizyoloji ve Sinirbilim,İstanbul Medipol Üniversitesi
+4,Doç. Dr.,Mehmet Z. BAYKARA,2013,Nanoteknoloji ve Malzeme Bilimi,University of California (Bilkent Üniv.)
+5,Prof.Dr.,Elif ÇADIRCI,2013,Eczacılık / Farmakoloji,Atatürk Üniversitesi
+6,Doç. Dr.,Hümeyra ÇAĞLAYAN,2013,Elektrik- Elektronik Mühendisliği,Tampere University (Abdullah Gül Üniv.)
+7,Doç.Dr.,Fatih DANIŞMAN,2013,Fiziko-Kimya Kimyasal Fizik,ODTÜ
+8,Prof.Dr.,Mustafa M. DEMİR,2013,Malzeme Bilimi ve Mühendisliği,İzmir Yüksek Teknoloji Enstitüsü
+9,Doç.Dr.,Gökhan DEMİREL,2013,Kimya-Malzeme Bilimi,Gazi Üniversitesi
+10,Prof. Dr.,Şule Erten ELA,2013,"Kimya, Enerji",Ege Üniversitesi
+11,Prof.Dr.,Ahmet Evren ERGİNAL,2013,Coğrafya,Çanakkale 18 Mart Üniversitesi
+12,Prof. Dr.,Sinan GEZİCİ,2013,Elektrik- Elektronik Mühendisliği,Bilkent Üniversitesi
+13,Doç. Dr.,Serdar GÖKTEPE,2013,Hesaplamalı Katı Cisimler Mekaniği,ODTÜ
+14,Prof. Dr.,V. Çağrı GÜNGÖR,2013,Bilgisayar Mühendisliği,Abdullah Gül Üniversitesi
+15,Prof.Dr.,Ü.Şebnem HARPUT,2013,Eczacılık / Farmakognozi,Hacettepe Üniversitesi
+16,Prof. Dr.,Müjgan İNÖZÜ,2013,Psikoloji,Abant İzzet Baysal Üniversitesi
+17,Prof.Dr.,Senar Aydın ÖZCAN,2013,Çevre Mühendisliği / Çevre Teknolojileri,Konya Necmettin Erbakan Üniversitesi
+18,Prof. Dr.,Türker ÖZKAN,2013,Psikoloji,ODTÜ
+19,Doç. Dr.,Deniz SEZER,2013,Hesaplamalı Biyofizik /Teorik Fiziksel Kimya,University of Düsseldorf (Sabancı Üniv)
+20,Prof. Dr.,B. K. Onur TAŞ,2013,Ekonomi,TOBB ETÜ
+21,Prof. Dr.,İsmail TURAN,2013,Fizik,ODTÜ
+22,Dr. Öğr. Üyesi,Özgün ÜNLÜ,2013,Matematik,Bilkent Üniversitesi
+23,Doç. Dr.,Turgay ÜNVER,2013,Moleküler Biyoloji,Çankırı Karatekin Üniversitesi
+24,Doç. Dr.,Hüseyin Çağatay YALÇIN,2013,Biyomedikal Mühendisliği,Qatar University (Doğuş Üniversitesi)
+25,Prof. Dr.,Arda D. YALÇINKAYA,2013,Elektrik- Elektronik Müh,Boğaziçi Üniversitesi
+26,Prof.Dr.,Mehmet ZAHMAKIRAN,2013,Kimya / Anorganik Kimya,Van Yüzüncü Yıl Üniversitesi
+1,Prof. Dr.,Ethem Murat ARSAVA,2012,Tıp/Nöroloji,Hacettepe Üniversitesi
+2,Doç. Dr.,Reşat BAYER,2012,Uluslararası İlişkiler,Koç Üniversitesi
+3,Prof. Dr.,Barış BİNİCİ,2012,İnşaat Mühendisliği,ODTÜ
+4,Doç. Dr.,Özgür BİRER,2012,Kimya,ASELSAN
+5,Doç. Dr.,Kazım BÜYÜKBODUK,2012,Matematik,Koç Üniversitesi
+6,Doç. Dr.,Fevzi Çakmak CEBECİ,2012,Malzeme Bilimi ve Mühendisliği,Sabancı Üniversitesi
+7,Doç. Dr.,Murat ÇOKOL,2012,Biyolojik Bilimler/Biyomühendislik,Axella (Sabancı Üniversitesi)
+8,Prof. Dr.,Katja DOERSCHNER,2012,Psikoloji,Bilkent Ünversitesi
+9,Prof. Dr.,Ayhan Kürşat ERBAŞ,2012,Eğitim Bilimleri,ODTÜ
+10,Dr. Öğr. Üyesi,Ebru ERBAY,2012,Moleküler Biyoloji ve Genetik,Bilkent Ünversitesi
+11,Prof. Dr.,Seda ERTAÇ GÜLER,2012,Ekonomi,Koç Üniversitesi
+12,Prof. Dr.,Hakan FERHATOSMANOĞLU,2012,Bilgisayar Mühendisliği,University of Warwick (Bilkent Üniv)
+13,Doç. Dr.,Işın GÜLER,2012,Yönetim Bilimleri,University of North Carolina (Sabancı Üniv)
+14,Doç. Dr.,Gözde İNCE,2012,Mühendislik ve Doğa Bilimleri,Sabancı Üniversitesi
+15,Yrd. Doç. Dr.,Gülayşe İNCE DUNN,2012,Moleküler Biyoloji ve Genetik,University of Helsinki (Koç Üniversitesi)
+16,Doç. Dr.,Aida JUST,2012,Siyaset Bilimleri,Bilkent Ünversitesi
+17,Prof. Dr.,Seda KESKİN AVCI,2012,Kimya ve Biyoloji Mühendisliği,Koç Üniversitesi
+18,Prof. Dr.,Dilek Funda KURTULUŞ,2012,Havacılık ve Uzay Mühendisliği,ODTÜ
+19,Prof. Dr.,Murat MANGUOĞLU,2012,Bilgisayar Mühendisliği,ODTÜ
+20,Dr. Öğr. Üyesi,Ersin Emre ÖREN,2012,Biyomedikal Mühendisliği,TOBB ETÜ
+21,Doç. Dr.,Nurhan ÖZLÜ SICAKKAN,2012,Moleküler Biyoloji ve Genetik,Koç Üniversitesi
+22,Doç. Dr.,Mehmet SAYAR,2012,Makine Mühendisliği,Koç Üniversitesi
+23,Doç. Dr.,Tevfik Metin SEZGİN,2012,Bilgisayar Mühendisliği,Koç Üniversitesi
+24,Prof. Dr.,Afsun ŞAHİN,2012,Tıp/Göz Hastalıkları,Koç Üniversitesi
+25,Prof. Dr.,Mustafa ŞAHMARAN,2012,İnşaat Mühendisliği,Hacettepe Üniversitesi
+26,Doç. Dr.,Ayşe Begüm TEKİNAY,2012,Malzeme Bilimi ve Nanoteknoloji,Bilkent Ünversitesi
+27,Dr.,Erdal TOPRAK,2012,Biyofizik,UT Southwestern Medical Center (Sabancı Üniv)
+28,Doç. Dr.,Tamer UYAR,2012,Malzeme Bilimi ve Nanoteknoloji,Cornell University (Bilkent Üniv)
+1,Doç. Dr.,İhsan İlker AYTÜRK,2011,Siyaset Bilimi,Bilkent Üniversitesi
+2,Prof. Dr.,Mustafa Tamer AYVAZ,2011,İnşaat Mühendisliği,Pamukkale Üniversitesi
+3,Prof. Dr.,Sreeparna BANERJEE,2011,Biyoloji,ODTÜ
+4,Doç. Dr.,Lemi BARUH,2011,İletişim/Reklamcılık,Koç Üniversitesi
+5,Prof. Dr.,Barış BAYRAM,2011,Elektrik-Elektronik Mühendisliği,ODTÜ
+6,Doç. Dr.,Şevki Koray DURAK,2011,Tarih,Boğaziçi Üniversitesi
+7,Yrd. Doç. Dr.,Mustafa Özgür GÜLER,2011,Nanoteknoloji,The University of Chicago (Bilkent Üniv)
+8,Prof. Dr.,Tuncay HAZIROLAN,2011,Tıp/Radyoloji,Hacettepe Üniversitesi
+9,Doç. Dr.,Menderes IŞKIN,2011,Fizik,Koç Üniversitesi
+10,Prof. Dr.,Muşturay KARÇAALTINCABA,2011,Tıp/Radyoloji,Hacettepe Üniversitesi
+11,Prof.Dr.,Canan KOCA ARITAN,2011,Spor Bilimleri ve Teknolojisi,Hacettepe Üniversitesi
+12,Prof. Dr.,Coşkun KOCABAŞ,2011,Fizik,Manchester University (Bilkent Üniv.)
+13,Prof. Dr.,Ali KOŞAR,2011,Mekatronik Mühendisliği,Sabancı Üniversitesi
+14,Prof. Dr.,Seçkin KÜRKÇÜOĞLU,2011,Fizik,ODTÜ
+15,Prof. Dr.,İbrahim Burç MISIRLIOĞLU,2011,Mühendislik ve Doğa Bilimleri,Sabancı Üniversitesi
+16,Dr.,Ayşe PARLA,2011,Sosyal Antropoloji,Boston University (Sabancı Üniv)
+17,Prof. Dr.,Rana SANYAL,2011,Kimya,Boğaziçi Üniversitesi
+18,Prof. Dr.,Mehmet Alper ŞEN,2011,Bilgisayar Mühendisliği,Boğaziçi Üniversitesi
+19,Prof. Dr.,Murat UYSAL,2011,Elektrik-Elektronik Mühendisliği,Özyeğin Üniversitesi
+20,Prof. Dr.,Sinan ÜNVER,2011,Matematik,Koç Üniversitesi
+21,Prof. Dr.,Hande YAMAN PATERNOTTE,2011,Endüstri Mühendisliği,KU Leuven (Bilkent Üniv.)
+22,Prof. Dr.,Nazmi YARAŞ,2011,Tıp/Biyofizik,Akdeniz Üniversitesi
+23,Prof. Dr.,Emre Alper YILDIRIM,2011,Endüstri Mühendisliği,The University of Edinburgh (Koç Üniv.)
+1,Yrd. Doç. Dr.,İnanç Adagideli,2010,Yoğun Madde Fiziği,Sabancı Üniversitesi
+2,Yrd. Doç. Dr.,Selçuk Aktürk,2010,Fizik,İstanbul Teknik Üniversitesi
+3,Dr.,Aytekin Akyol,2010,Tıp/Patoloji,Hacettepe Üniversitesi
+4,Doç. Dr.,Mehmet Sait Albayram,2010,Tıp/Radyoloji,İstanbul Üniversitesi
+5,Doç. Dr.,Mehmet Cihat Alçiçek,2010,Yer Bilimleri,Pamukkale Üniversitesi
+6,Yrd. Doç. Dr.,Jens Allmer,2010,Biyoinformatik,İzmir Yüksek Teknoloji Enstitüsü
+7,Yrd. Doç. Dr.,Günay Yetik Anacak,2010,Eczacılık/Farmakoloji,Ege Üniversitesi
+8,Yrd. Doç. Dr.,Erhan Artuç,2010,Ekonomi,Koç Üniversitesi
+9,Doç. Dr.,Yusuf Baran,2010,Moleküler Biyoloji ve Genetik,İzmir Yüksek Teknoloji Enstitüsü
+10,Yrd. Doç. Dr.,Demircan Canadinç,2010,Makine Mühendisliği,Koç Üniversitesi
+11,Doç. Dr.,Atilla Cihaner,2010,Kimya,Atılım Üniversitesi
+12,Yrd. Doç. Dr.,Selin Aradağ Çelebioğlu,2010,Makine Mühendisliği,TOBB Ekonomi ve Teknoloji Üniversitesi
+13,Yrd. Doç. Dr.,Zeynep Ayşecan Boduroğlu Gököz,2010,Psikoloji,Boğaziçi Üniversitesi
+14,Prof. Dr.,Ertuğrul Kılıç,2010,Tıp/Fizyoloji,Yeditepe Üniversitesi
+15,Yrd. Doç. Dr.,Serdar Kozat,2010,Elektrik-Elektronik Mühendisliği,Koç Üniversitesi
+16,Yrd. Doç. Dr.,Tarcan Kumkale,2010,Psikoloji,Koç Üniversitesi
+17,Yrd. Doç. Dr.,Hamza Kurt,2010,Elektrik-Elektronik Mühendisliği,TOBB Ekonomi ve Teknoloji Üniversitesi
+18,Doç. Dr. Tuba,Çiğdem Oğuzoğlu,2010,Veterinerlik,Ankara Üniversitesi
+19,Yrd. Doç. Dr.,Özhan Özatay,2010,Fizik,Boğaziçi Üniversitesi
+20,Yrd. Doç. Dr.,Emrah Özensoy,2010,Kimya,Bilkent Üniversitesi
+21,Yrd. Doç. Dr.,Müfit Sezer,2010,Matematik,Bilkent Üniversitesi
+22,Yrd. Doç. Dr.,Çağdaş D. Son,2010,Biyoloji,Ortadoğu Teknik Üniversitesi
+23,Yrd. Doç. Dr.,Gözde Ünal,2010,Bilgisayar ve Elektronik Mühendisliği,Sabancı Üniversitesi
+24,Dr.,Erkan Yılmaz,2010,Biyoteknoloji,Ankara Üniversitesi
+1,Doç. Dr.,Mehmet Akar,2009,Elektrik-Elektronik Mühendisliği,Boğaziçi Üniversitesi
+2,Yrd. Doç. Dr.,Burhanettin Erdem Alaca,2009,Makine Mühendisliği,Koç Üniversitesi
+3,Yrd. Doç. Dr.,Meltem Doğan Alparslan,2009,Arkeoloji,İstanbul Üniversitesi
+4,Yrd. Doç. Dr.,Ahmet Kerim Avcı,2009,Kimya Mühendisliği,Boğaziçi Üniversitesi
+5,Yrd. Doç. Dr.,Abdurrahman Bekir Aydemir,2009,Ekonomi,Sabancı Üniversitesi
+6,Yrd. Doç. Dr.,Türker Bıyıkoğlu,2009,Matematik,Işık Üniversitesi
+7,Yrd. Doç. Dr.,Hüseyin Boyacı,2009,Psikoloji,Bilkent Üniversitesi
+8,Doç. Dr.,Mehmet Cansev,2009,Tıp-Farmakoloji,Uludağ Üniversitesi
+9,Yrd. Doç.Dr.,Barış Coşkunüzer,2009,Matematik,Koç Üniversitesi
+10,Yrd. Doç. Dr.,Hakan Çevikalp,2009,Elektrik-Elektronik Mühendisliği,Osmangazi Üniversitesi
+11,Yrd. Doç.Dr.,Hanife Genç,2009,Ziraat-Bitki Koruma,Çanakkale Onsekizmart Üniversitesi
+12,Yrd. Doç. Dr.,Oğuzhan Gürlü,2009,Fizik Mühendisliği,İstanbul Teknik Üniversitesi
+13,Yrd. Doç. Dr.,Metin Muradoğlu,2009,Makine Mühendisliği,Koç Üniversitesi
+14,Yrd. Doç. Dr.,Bahar Rumelili Sancak,2009,Uluslararası İlişkiler,Koç Üniversitesi
+15,Yrd. Doç. Dr.,Murat Saraçlar,2009,Elektrik-Elektronik Mühendisliği,Boğaziçi Üniversitesi
+16,Yrd. Doç. Dr.,Kürşat Şendur,2009,Elektrik-Bilgisayar Mühendisliği,Sabancı Üniversitesi
+17,Doç. Dr.,Süreyya Kayhan Ülker,2009,Fizik,Feza Gürsey Enstitüsü
+18,Dr.,Hüsnü Emrah Ünalan,2009,Metalurji ve Malzeme Mühendisliği,ODTÜ
+19,Dr.,Murat Burak Yaylaoğlu,2009,Biyoloji,ODTÜ (Ödülü iptal oldu)
+1,Yrd. Doç.,Dr. Burak Acar,2008,Elektrik-Elektronik Mühendisliği,Boğaziçi Üniversitesi
+2,Doç. Dr.,Özgür Barış Akan,2008,Elektrik-Elektronik Mühendisliği,ODTÜ
+3,Doç. Dr.,Taylan Akdoğan,2008,Fizik,Boğaziçi Üniversitesi
+4,Yrd. Doç. Dr.,Emre Alkan,2008,Matematik,Koç Üniversitesi
+5,Prof. Dr.,Orhan Aydın,2008,Makine Mühendisliği,Karadeniz Teknik Üniversitesi
+6,Dr.,Petek Ballar,2008,Eczacılık/Biyokimya,Ege Üniversitesi
+7,Yrd. Doç. Dr.,Hatice Pınar Bilgin,2008,Uluslararası İlişkiler,Bilkent Üniversitesi
+8,Yrd. Doç. Dr.,Yusuf Civan,2008,Matematik,Süleyman Demirel Üniversitesi
+9,Doç. Dr.,Selva Demiralp Cuda,2008,Ekonomi,Koç Üniversitesi
+10,Yrd. Doç. Dr.,Arzu Çelik,2008,Moleküler Biyoloji ve Genetik,Boğaziçi Üniversitesi
+11,Yrd. Doç. Dr.,Müjdat Çetin,2008,Mühendislik ve Doğa Bilimleri,Sabancı Üniversitesi
+12,Prof. Dr.,Serkant Ali Çetin,2008,Fizik,Doğuş Üniversitesi
+13,Doç. Dr.,Seydi Doğan,2008,Fizik,Atatürk Üniversitesi
+14,Yrd. Doç. Dr.,Alper Tunga Erdoğan,2008,Elektrik-Elektronik Mühendisliği,Koç Üniversitesi
+15,Yrd. Doç.,Nuray Erin,2008,Tıp/İç Hastalıklar,Akdeniz Üniversitesi
+16,Yrd. Doç. Dr.,Devrim Gözüaçık,2008,Biyolojik Bilimler ve Biyomühendislik,Sabancı Üniversitesi
+17,Doç. Dr.,Kaan Güven,2008,Fizik/Nanoteknoloji,Bilkent Üniversitesi
+18,Doç. Dr.,Bahar Yetiş Kara,2008,Endüstri Mühendisliği,Bilkent Üniversitesi
+19,Yrd. Doç. Dr.,Güllü Kızıltaş,2008,Mekatronik Mühendisliği,Sabancı Üniversitesi
+20,Doç. Dr.,Mehmet Kitiş,2008,Çevre Mühendisliği,Süleyman Demirel Üniversitesi
+21,Doç. Dr.,Arzu Karabay Korkmaz,2008,Moleküler Biyoloji ve Genetik,İstanbul Teknik Üniversitesi
+22,Yrd. Doç. Dr.,Hakan Özgür Özer,2008,Fizik,İstanbul Teknik Üniversitesi
+23,Yrd. Doç. Dr.,Amitav Sanyal,2008,Kimya,Boğaziçi Üniversitesi
+24,Doç. Dr.,Murat Sezer,2008,Tıp/Kardiyoloji,İstanbul Üniversitesi
+25,Yrd. Doç. Dr.,Nurettin Şahiner,2008,Kimya,Çanakkale Onsekiz Mart Üniversitesi
+26,Yrd. Doç. Dr.,Serdar Taşıran,2008,Bilgisayar Mühendisliği,Koç Üniversitesi
+27,Doç. Dr.,İrem Dikmen Toker,2008,İnşaat Mühendisliği,ODTÜ
+28,Doç. Dr.,Gültekin Topuz,2008,Jeoloji Mühendisliği,İstanbul Teknik Üniversitesi
+29,Yrd. Doç. Dr.,Yusuf Tutar,2008,Kimya,Cumhuriyet Üniversitesi
+30,Doç. Dr.,Şuhnaz Yılmaz,2008,Uluslararası İlişkiler,Koç Üniversitesi
+31,Yrd. Doç. Dr.,Can A. Yücesoy,2008,Biyomedikal Mühendisliği,Boğaziçi Üniversitesi
+1,Doç. Dr.,Yusuf Aksar,2007,Hukuk,Karadeniz Teknik Üniversitesi
+2,Doç. Dr.,Yeşim Müride Atamer,2007,Hukuk,İstanbul Bilgi Üniversitesi
+3,Doç. Dr.,Kubilay Aydın,2007,Tıp/Radyodiagnostik,İstanbul Üniversitesi
+4,Doç. Dr.,Nihal Aydoğan,2007,Kimya Mühendisliği,Hacettepe Üniversitesi
+5,Doç. Dr.,Alper Baba,2007,Jeoloji Mühendisliği,Çanakkale Onsekizmart Üniversitesi
+6,Doç. Dr.,Melih Ö. Babaoğlu,2007,Tıp/Farmakoloji,Hacettepe Üniversitesi
+7,Yrd. Doç. Dr.,Mehmet Bayındır,2007,Fizik,Bilkent Üniversitesi
+8,Doç. Dr.,Adil Baykasoğlu,2007,Endüstri Mühendisliği,Gaziantep Üniversitesi
+9,Doç. Dr.,İsmail Boztosun,2007,Fizik,Akdeniz Üniversitesi
+10,Doç. Dr.,Ahmet Arif Ergin,2007,Elektrik-Elektronik Mühendisliği,Gebze Yüksek Teknoloji Enstitüsü
+11,Yrd. Doç. Dr.,Vakur Behçet Ertürk,2007,Elektrik-Elektronik Mühendisliği,Bilkent Üniversitesi
+12,Yrd. Doç. Dr.,Refet Soykan Gürkaynak,2007,Ekonomi,Bilkent Üniversitesi
+13,Yrd. Doç. Dr.,Emrah Kalemci,2007,Astrofizik,Sabancı Üniversitesi
+14,Yrd. Doç. Dr.,Özlem Öz Özkaracalar,2007,İşletme,Boğaziçi Üniversitesi
+15,Doç. Dr.,Fikri Karaesmen,2007,Endüstri Mühendisliği,Koç Üniversitesi
+16,Yrd. Doç.,Dr. Ahmet Koç,2007,Moleküler Biyoloji ve Genetik,İzmir Yüksek Teknoloji Enstitüsü
+17,Yrd. Doç. Dr.,Ceren Gönen Korkmaz,2007,Tıp/Farmakoloji,Ege Üniversitesi
+18,Doç. Dr.,Işıl Aksan Kurnaz,2007,Genetik ve Biyomühendislik,Yeditepe Üniversitesi
+19,Yrd. Doç. Dr.,M. Kıvanç Mıhçak,2007,Elektrik-Elektronik Mühendisliği,Boğaziçi Üniversitesi
+20,Yrd. Doç. Dr.,Zeynep Çizmeli Öğün,2007,Arkeoloji,Ankara Üniversitesi
+21,Doç. Dr.,Cenap Özel,2007,Matematik,Abant İzzet Baysal Üniversitesi
+22,Prof. Dr.,Mehmet Remzi Sanver,2007,Ekonomi,İstanbul Bilgi Üniversitesi
+23,Doç. Dr.,Ender Suvacı,2007,Malzeme Bilimi ve Mühendisliği,Anadolu Üniversitesi
+24,Doç. Dr.,Hakan Ürey,2007,Elektrik-Elektronik Mühendisliği,Koç Üniversitesi
+25,Doç. Dr.,E. Aydın Yağmurlu,2007,Tıp/Çocuk Cerrahisi,Ankara Üniversitesi
+26,Doç. Dr.,Halit Yanıkkaya,2007,Ekonomi,Celal Bayar Üniversitesi
+1,Doç. Dr.,Hikmet Budak,2006,Biyoloji ve Biyomühendislik,Sabancı Üniversitesi
+2,Doç. Dr.,Hamit Coşkun,2006,Psikoloji,Abant İzzet Baysal Üniversitesi
+3,Yrd. Doç. Dr.,Hilmi Volkan Demir,2006,Elektrik-Elektronik Mühendisliği/Fizik,Bilkent Üniversitesi
+4,Prof. Dr.,Tuğrul Dayar,2006,Bilgisayar Mühendisliği,Bilkent Üniversitesi
+5,Doç. Dr.,Nihat Sadık Değer,2006,Matematik,Koç Üniversitesi
+6,Doç. Dr.,Ali Düzova,2006,Tıp/Çocuk Hastalıkları,Hacettepe Üniversitesi
+7,Doç. Dr.,Mehmet Batu Erman,2006,Mühendislik ve Doğa Bilimleri,Sabancı Üniversitesi
+8,Yrd. Doç. Dr.,Ayşe Elif Erson,2006,Biyoloji,ODTÜ
+9,Doç. Dr.,Şermin Genç,2006,Tıp/Nöroloji,Dokuz Eylül Üniversitesi
+10,Doç. Dr.,Aylin Güney,2006,Siyaset Bilimi,Bilkent Üniversitesi
+11,Yrd. Doç. Dr.,Ayşe Gürel,2006,Eğitim,Boğaziçi Üniversitesi
+12,Yrd. Doç. Dr.,Fatih Ömer İlday,2006,Fizik,Bilkent Üniversitesi
+13,Doç. Dr.,Saip Nami Kartal,2006,Orman Endüstri Mühendisliği,İstanbul Üniversitesi
+14,Yrd. Doç. Dr.,İbrahim Halil Kavaklı,2006,Kimya ve Biyoloji Mühendisliği,Koç Üniversitesi
+15,Doç. Dr.,Hüseyin Kaya,2006,Temel Bilimler/Tıbbi Biyoloji,Atatürk Üniversitesi
+16,Yrd. Doç. Dr.,İbrahim Kaya,2006,Sosyoloji,Dumlupınar Üniversitesi
+17,Doç. Dr.,Z. Özlem Keskin,2006,Kimya ve Biyoloji Mühendisliği,Koç Üniversitesi
+18,Doç. Dr.,Özgür Kıbrıs,2006,Ekonomi,Sabancı Üniversitesi
+19,Doç. Dr.,Alper Kiraz,2006,Fizik,Koç Üniversitesi
+20,Doç. Dr.,Selda Küçükçifçi,2006,Matematik,Koç Üniversitesi
+21,Prof. D.,Mahmut D. Mat,2006,Makine Mühendisliği,Niğde Üniversitesi
+22,Doç. Dr.,Handan Arkın Olğar,2006,Fizik Mühendisliği,Ankara Üniversitesi
+23,Doç. Dr.,Umut Özkırımlı,2006,Uluslararası İlişkiler,İstanbul Bilgi Üniversitesi
+24,Doç. Dr.,Nesrin Özören,2006,Moleküler Biyoloji ve Genetik,Boğaziçi Üniversitesi
+25,Doç. Dr.,Altuğ Özpineci,2006,Fizik,ODTÜ
+26,Doç. Dr.,Ramazan Tuğrul Senger,2006,Fizik,İzmir Yüksek Teknoloji Enstitüsü
+27,Yrd. Doç. Dr.,Süleyman Seydi,2006,Tarih,Süleyman Demirel Üniversitesi
+28,Yrd. Doç. Dr.,Derya Gürses Tarbuck,2006,Tarih,Mersin Üniversitesi
+29,Doç. Dr.,A. Muhammed Uludağ,2006,Matematik,Galatasaray Üniversitesi
+30,Doç. Dr.,Okan Bülent Yıldız,2006,Tıp/İç Hastalıkları,Hacettepe Üniversitesi
+1,Prof. Dr.,Ahmet Erhan Aksoylu,2005,Kimya Mühendisliği,Boğaziçi Üniversitesi
+2,Prof. Dr.,C. Emre Alper,2005,Ekonomi,Boğaziçi Üniversitesi
+3,Doç. Dr.,Ramazan Bal,2005,Veteriner/Fizyoloji,Fırat Üniversitesi
+4,Prof. Dr.,Suat Erdoğan,2005,Veteriner/Biyokimya,Mustafa Kemal Üniversitesi
+5,Doç. Dr.,Tolga Etgü,2005,Matematik,Koç Üniversitesi
+6,Doç. Dr.,Oya Ekin Karaşan,2005,Endüstri Mühendisliği,Bilkent Üniversitesi
+7,Doç. Dr.,Ceyhun Karpuz,2005,Elektrik/Elektronik Mühendisliği,Pamukkale Üniversitesi
+8,Doç. Dr.,Ayhan Kaya,2005,Uluslararası İlişkiler,İstanbul Bilgi Üniversitesi
+9,Doç. Dr.,Ali Kaya,2005,Fizik,Boğaziçi Üniversitesi
+10,Yrd. Doç. Dr.,Mehmet Özgür Oktel,2005,Fizik,Bilkent Üniversitesi
+11,Doç. Dr.,Yasemin Gürsoy Özdemir,2005,Tıp/Nöroloji,Hacettepe Üniversitesi
+12,Doç. Dr.,Gürsel Sönmez,2005,Mühendislik ve Doğa Bilimleri,Sabancı Üniversitesi
+13,Prof. Dr.,Barış Tan,2005,İşletme,Koç Üniversitesi
+14,Prof. Dr.,Cemal Turan,2005,Su Ürünleri,Mustafa Kemal Üniversitesi
+15,Yrd. Doç. Dr.,M. Utku Ünver,2005,Ekonomi,Koç Üniveristesi
+16,Yrd. Doç. Dr.,Ergün Yalçın,2005,Matematik,Bilkent Üniversitesi
+17,Doç. Dr.,Ümit Yaşar,2005,Tıp/Farmakoloji,Hacettepe Üniversitesi
+1,Doç. Dr.,İdil Arslan Alaton,2004,Çevre Mühendisliği,İTÜ
+2,Doç. Dr.,Mutlu Arat,2004,Tıp/Hematoloji,Ankara Üniversitesi
+3,Prof. Dr.,Canan Atılgan,2004,Mühendislik ve Doğa Bilimleri,Sabancı Üniversitesi
+4,Prof. Dr.,Erdal Bedir,2004,Biyomühendislik,Ege Üniversitesi
+5,Doç. Dr.,Vural Bütün,2004,Kimya,Osmangazi Üniversitesi
+6,Doç. Dr.,Gülfem E. Çelik,2004,Tıp/Göğüs Hastalıkları,Ankara Üniversitesi
+7,Doç. Dr.,Münire Özlem Çevik,2004,Psikoloji,Abant İzzet Baysal Üniversitesi
+8,Prof. Dr.,Durmuş Ali Demir,2004,Fizik,İzmir Yüksek Teknoloji Enstitüsü
+9,Doç. Dr.,Anne Frary,2004,Biyoloji,İzmir Yüksek Teknoloji Enstitüsü
+10,Doç. Dr.,Ünsal Gemici,2004,Jeoloji Mühendisliği,Dokuz Eylül Üniversitesi
+11,Doç. Dr.,Ersin Göğüş,2004,Fizik,Sabancı Üniversitesi
+12,Prof. Dr.,Vural Gökmen,2004,Gıda Mühendisliği,Hacettepe Üniversitesi
+13,Yrd. Doç. Dr.,Kaan İren,2004,Arkeoloji,Muğla Üniversitesi
+14,Doç. Dr.,İbrahim Karnak,2004,Tıp/Çocuk Cerrahisi,Hacettepe Üniversitesi
+15,Dr.,Reyhan Diz Küçükkaya,2004,Tıp/İç Hastalıkları,İstanbul Üniversitesi
+16,Doç. Dr.,Özgür Esat Müstecaplıoğlu,2004,Fizik,Koç Üniversitesi
+17,Doç. Dr.,Yıldıray Ozan,2004,Matematik,ODTÜ
+18,Doç. Dr.,İsmail Sağlam,2004,Ekonomi,Boğaziçi Üniversitesi
+19,Doç. Dr.,Fikrettin Şahin,2004,Ziraat/Bitki Koruma,Yeditepe Üniversitesi
+20,Doç. Dr.,Bayram Tekin,2004,Fizik,ODTÜ
+21,Doç. Dr.,İsmail Yılmaz,2004,Kimya,İTÜ
+22,Doç. Dr.,Mehmet Yörükoğlu,2004,Ekonomi,Sabancı Üniversitesi
+1,Doç. Dr.,Haji Ahmedov,2003,Fizik,Feza Gürsey Enstitüsü
+2,Prof. Dr.,Zeynep Aycan,2003,Psikoloji,Koç Üniversitesi
+3,Prof. Dr.,Meltem Müftüler Baç,2003,Siyaset Bilimi/Uluslararası İlişkiler,Sabancı Üniversitesi
+4,Doç. Dr.,Şölen Balman,2003,Fizik,ODTÜ
+5,Doç. Dr.,Metin Bilgi,2003,Moleküler Biyoloji ve Hücre Biyolojisi,Sabancı Üniversitesi
+6,Yrd. Doç. Dr.,Alper Demir,2003,Elektrik-Elektronik Mühendisliği,Koç Üniversitesi
+7,Doç. Dr.,Sami Doğanlar,2003,Biyoloji,İzmir Yüksek Teknoloji Enstitüsü
+8,Doç. Dr.,Elif Tekin İftar,2003,Özel Eğitim,Anadolu Üniversitesi
+9,Doç. Dr.,Emine Günhan,2003,Tıp / Fizyoloji,Mersin Üniversitesi
+10,Prof. Dr.,Mustafa Korkmaz,2003,Matematik,ODTÜ
+11,Doç. Dr.,Ayşe Aslıhan Köksoy,2003,Tıp/Biyofizik,Ankara Üniversitesi
+12,Doç. Dr.,Burak Özbağcı,2003,Matematik,Koç Üniversitesi
+13,Prof. Dr.,Ferruh Özbudak,2003,Matematik,ODTÜ
+14,Prof. Dr.,Osman Parlak,2003,Jeoloji Mühendisliği,Çukurova Üniversitesi
+15,Doç. Dr.,Mustafa Soykut,2003,Tarih,ODTÜ
+16,Prof. Dr.,Ömer Uğur,2003,Tıp/Nükleer Tıp,Hacettepe Üniversitesi
+17,Prof. Dr.,Arzu Öztürkmen Yılmaz,2003,Tarih,Boğaziçi Üniversitesi
+1,Doç. Dr.,Yaprak Seçil Akbaba,2002,Tıp/Nöroloji,Ege Üniversitesi
+2,Doç. Dr.,Sabri Arık,2002,Elektrik-Elektronik Mühendisliği,İstanbul Üniversitesi
+3,Prof. Dr.,Selçuk Atalay,2002,Fizik,İnönü Üniversitesi
+4,Doç. Dr.,Nejat Bulut,2002,Fizik,Koç Üniversitesi
+5,Prof. Dr.,Kansu Büyükafşar,2002,Tıp/Farmakoloji,Mersin Üniversitesi
+6,Prof. Dr.,Ömer Dağ,2002,Kimya,Bilkent Üniversitesi
+7,Doç. Dr.,Cemsinan Deliduman,2002,Fizik,Feza Gürsey Enstitüsü
+8,Prof. Dr.,Pemra Doruker,2002,Kimya Mühendisliği,Boğaziçi Üniversitesi
+9,Prof. Dr.,Y. Murat Elçin,2002,Kimya,Ankara Üniversitesi
+10,Doç. Dr.,Tülin Gençöz,2002,Psikoloji,ODTÜ
+11,Prof. Dr.,Levent Gürel,2002,Elektrik-Elektronik Mühendisliği,Bilkent Üniversitesi
+12,Doç. Dr.,Ramazan İdilman,2002,Tıp/Gastroenteroloji,Ankara Üniversitesi
+13,Prof. Dr.,Sair Kahraman,2002,Maden Mühendisliği,Niğde Üniversitesi
+14,Doç. Dr.,Türker Kılıç,2002,Tıp/Nöroloji),Marmara Üniversitesi
+15,Doç. Dr.,İsmail Serdar Özoğuz,2002,Elektrik-Elektronik Mühendisliği,İTÜ
+16,Doç. Dr.,Lütfi Özyüzer,2002,Fizik,İzmir Yüksek Teknoloji Enstitüsü
+17,Doç. Dr.,Osman Teoman Turgut,2002,Fizik,Feza Gürsey Enstitüsü
+18,Prof. Dr.,Tayfun Sönmez,2002,Ekonomi,Koç Üniversitesi
+19,Dr.,Bernd Wollnik,2002,Tıbbi Genetik,İstanbul Üniversitesi
+20,Doç. Dr.,Şule Kurhan Yavuz,2002,Tı/İç Hastalıkları,Marmara Üniversitesi
+21,Doç. Dr.,Yaşar Yılmaz,2002,Fizik,İTÜ
+1,Prof. Dr.,Hakan Akbulut,2001-2,Tıp-Tıbbi Onkoloji,Ankara Üniversitesi
+2,Doç. Dr.,Berahitdin Albayrak,2001-2,Astronomi ve Uzay Bilimleri,Ankara Üniversitesi
+3,Doç. Dr.,Rengül Çetin Atalay,2001-2,Moleküler Biyoloji ve Genetik,Bilkent Üniversitesi
+4,Prof. Dr.,Erdin Bozkurt,2001-2,Jeoloji Mühendisliği,ODTÜ
+5,Prof. Dr.,Pınar Çalık,2001-2,Kimya Mühendisliği,ODTÜ
+6,Prof. Dr.,A. Enis Çetin,2001-2,Elektrik-Elektronik Mühendisliği,Bilkent Üniversitesi
+7,Doç. Dr.,Adem Levend Demirel,2001-2,Kimya,Koç Üniversitesi
+8,Prof. Dr.,K. Arzum Erdem Gürsan,2001-2,Analitik Kimya,Ege Üniversitesi
+9,Doç. Dr.,Mehmet Zafer Gedik,2001-2,Fizik,Sabancı Üniversitesi
+10,Doç. Dr.,Z. Nuray Güner,2001-2,İşletme,ODTÜ
+11,Prof. Dr.,Alper İskit,2001-2,Tıp/Farmakoloji,Hacettepe Üniversitesi
+12,Doç. Dr.,Cüneyt Köksoy,2001-2,Tıp/Genel Cerrahi,Ankara Üniversitesi
+13,Doç. Dr.,Aylin C. Küntay,2001-2,Psikoloji,Koç Üniversitesi
+14,Doç. Dr.,Timo Lajunen,2001-2,Psikoloji,ODTÜ
+15,Prof. Dr.,Hasan Mandal,2001-2,Seramik Mühendisliği,Anadolu Üniversitesi
+16,Doç. Dr.,H. Aslı Özyürek,2001-2,Psikoloji,Koç Üniversitesi
+17,Prof. Dr.,Tuncay Taymaz,2001-2,Jeoloji/Sismoloji,İTÜ
+18,Yrd. Doç. Dr.,Uygar H. Tazebay,2001-2,Moleküler Biyoloji ve Genetik,Bilkent Üniversitesi
+19,Doç. Dr.,Mustafa Tekin,2001-2,Tıp/Pediatri,Ankara Üniversitesi
+20,Prof. Dr.,Uğur Tırnaklı,2001-2,Fizik,Ege Üniversitesi
+1,Prof. Dr.,Ethem Alpaydın,2001-1,Bilgisayar Mühendisliği,Boğaziçi Üniversitesi
+2,Prof. Dr.,Abdullah Bereket,2001-1,Tıp,Marmara Üniversitesi
+3,Prof. Dr.,Arif Daştan,2001-1,Kimya,Atatürk Üniversitesi
+4,Prof. Dr.,Ersan Demiralp,2001-1,Fizik,Boğaziçi Üniversitesi
+5,Prof. Dr.,Mehmet Ertuğrul,2001-1,Fizik,Atatürk Üniversitesi
+6,Prof. Dr.,Ahmet Gül,2001-1,Tıp,İstanbul Üniversitesi
+7,Prof. Dr.,Türkan Haliloğlu,2001-1,Kimya Mühendisliği,Boğaziçi Üniversitesi
+8,Prof. Dr.,Erhan Onur İltan,2001-1,Fizik,ODTÜ
+9,Prof. Dr.,Ali Mostafazadeh,2001-1,"Matematik, Fizik",Koç Üniversitesi
+10,Doç. Dr.,Nuray Sakallı,2001-1,Psikoloji,ODTÜ
+11,Prof. Dr.,Alphan Sennaroğlu,2001-1,"Fizik / Lazer Fiziği, Nonlineer Optik",Koç Üniversitesi
+12,Doç. Dr.,Selami Sezgin,2001-1,Maliye,Pamukkale Üniversitesi
+13,Prof. Dr.,Alaattin Şen,2001-1,Biyoloji,Pamukkale Üniversitesi
+14,Doç. Dr.,Ali İzzet Tekcan,2001-1,Psikoloji,Boğaziçi Üniversitesi
+15,Prof. Dr.,Hasan Gürkan Tekman,2001-1,Psikoloji-Enformatik,Uludağ Üniversitesi
+16,Doç. Dr.,Emel Ulupınar,2001-1,Tıp,Osmangazi Üniversitesi
