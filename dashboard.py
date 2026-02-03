@@ -144,6 +144,10 @@ with tab1:
     
     opacity = st.sidebar.slider("Nokta Opaklığı", 0.1, 1.0, 0.7)
 
+    # Plotly'nin size parametresi NaN değerlerden hoşlanmadığı için temizle
+    if size_col and size_col in df_plot.columns:
+        df_plot = df_plot.dropna(subset=[size_col])
+
     # --- Çizim ---
     if df_plot.empty:
         st.warning("⚠️ Seçilen filtreler için veri bulunmuyor.")
