@@ -15,7 +15,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 # ==============================================================================
 # CONFIGURATION
 # ==============================================================================
-SERPER_API_KEY = "be361518bfb80e064f3fe93d72a1c48a86ca359b"
+SERPER_API_KEY = ""
 DATA_FILE = "data/gebip_awardees.csv"
 BATCH_DIR = "data/serper_batches"
 MERGED_OUTPUT_FILE = "data/gebip_scholar_enriched.csv"
@@ -536,7 +536,7 @@ def merge_and_validate():
 # Requires 'google-search-results' package (pip install google-search-results)
 
 import requests
-SERPAPI_KEY = "c9f5958126d2bc3e0e6788bb2cafff23b37487f9169f686f5f62b8839511d8cd"
+SERPAPI_KEY = ""
 
 def search_scholar_profile_serpapi(name):
     url = "https://serpapi.com/search"
