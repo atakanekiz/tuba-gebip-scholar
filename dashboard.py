@@ -51,7 +51,7 @@ with tab1:
     y_axis_label = st.sidebar.selectbox("Y Ekseni", options=list(axis_options.keys()), index=1)
     
     # Logaritmik Ölçek Seçeneği
-    log_y = st.sidebar.checkbox("Logaritmik Y Ekseni", value=False)
+    log_y = st.sidebar.checkbox("Logaritmik Y Ekseni", value=True)
     
     x_col = axis_options[x_axis_label]
     y_col = axis_options[y_axis_label]
@@ -396,7 +396,7 @@ with tab2:
         st.subheader("📈 Zaman İçinde Gelişim")
         
         # Log scale toggle
-        use_log_scale = st.checkbox("📊 Logaritmik Ölçek Kullan (Y-ekseni)", value=False, help="Büyük değer aralıkları için logaritmik ölçek kullanın")
+        use_log_scale = st.checkbox("📊 Logaritmik Ölçek Kullan (Y-ekseni)", value=True, help="Büyük değer aralıkları için logaritmik ölçek kullanın")
         
         col1, col2 = st.columns(2)
         
