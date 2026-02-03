@@ -278,8 +278,8 @@ ui <- fluidPage(
       p("Araştırmacıların ödül aldıkları andaki akademik performanslarını inceleyin."),
       br(),
       fluidRow(
-        column(3, checkboxInput("award_log_x", "Logaritmik X Ekseni", FALSE)),
-        column(3, checkboxInput("award_log_y", "Logaritmik Y Ekseni", FALSE)),
+        column(3, checkboxInput("award_log_x", "Logaritmik X Ekseni", TRUE)),
+        column(3, checkboxInput("award_log_y", "Logaritmik Y Ekseni", TRUE)),
         column(6, uiOutput("award_highlight_ui"))
       ),
       br(),
