@@ -514,6 +514,11 @@ server <- function(input, output, session) {
     color_var <- if (input$color_by != "none") input$color_by else NULL
     size_var <- if (input$size_by != "none") input$size_by else NULL
 
+    # Clean size variable to avoid issues with NA
+    if (!is.null(size_var)) {
+      data <- data %>% filter(!is.na(.data[[size_var]]))
+    }
+
     # Axis labels
     axis_labels <- c(
       "yili" = "Ödül Yılı",
