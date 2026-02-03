@@ -15,7 +15,22 @@ sys.stdout.reconfigure(encoding='utf-8')
 # ==============================================================================
 # CONFIGURATION
 # ==============================================================================
-SERPER_API_KEY = ""
+
+def load_api_keys():
+    keys = {}
+    try:
+        with open("apis.txt", "r") as f:
+            for line in f:
+                if "=" in line:
+                    k, v = line.strip().split("=", 1)
+                    keys[k.strip()] = v.strip().strip('"')
+    except Exception as e:
+        print(f"Warning: Could not load apis.txt: {e}")
+    return keys
+
+API_KEYS = load_api_keys()
+SERPER_API_KEY = API_KEYS.get("serper", "")
+SERPAPI_KEY = API_KEYS.get("serpapi", "")
 DATA_FILE = "data/gebip_awardees.csv"
 BATCH_DIR = "data/serper_batches"
 MERGED_OUTPUT_FILE = "data/gebip_scholar_enriched.csv"
