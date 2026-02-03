@@ -636,9 +636,9 @@ with tab4:
     # Kontroller
     col_c1, col_c2, col_c3 = st.columns(3)
     with col_c1:
-        log_x_award = st.checkbox("Logaritmik X Ekseni", value=False, key="award_log_x")
+        log_x_award = st.checkbox("Logaritmik X Ekseni", value=True, key="award_log_x")
     with col_c2:
-        log_y_award = st.checkbox("Logaritmik Y Ekseni", value=False, key="award_log_y")
+        log_y_award = st.checkbox("Logaritmik Y Ekseni", value=True, key="award_log_y")
     with col_c3:
         all_researchers_sorted = sorted(df['adi_soyadi'].dropna().unique().tolist())
         highlight_award = st.selectbox("Araştırmacı Vurgula", ["Hiçbiri"] + all_researchers_sorted, key="award_highlight")
